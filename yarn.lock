@@ -1558,7 +1558,7 @@
   dependencies:
     type-detect "4.0.8"
 
-"@taraswap/sdk-core@^4.1.5", "@taraswap/sdk-core@^4.2.0", "@taraswap/sdk-core@^4.2.1":
+"@taraswap/sdk-core@^4.1.5", "@taraswap/sdk-core@^4.2.0":
   version "4.2.0"
   resolved "https://registry.npmjs.org/@taraswap/sdk-core/-/sdk-core-4.2.0.tgz#e3bd65131db2267a09946e8d56751751a17bb7ae"
   integrity sha512-AL9gQwQnHuyGpbEYgfVuHuN8QHow640rNylFb3W9+g4tMjPUPZMc5AMblPdICrSUyJrZu8wSNliSRIxOFSxcrA==

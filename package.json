@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@taraswap/sdk-core": "^4.2.1",
+    "@taraswap/sdk-core": "^4.2.0",
     "@taraswap/v2-sdk": "^4.3.1",
     "@taraswap/v3-sdk": "^3.11.0",
     "@ethersproject/abi": "^5.5.0",
